@@ -1,0 +1,7 @@
+{
+  "name": "practica-ci-testeo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "test01.js"
+  }
+}
