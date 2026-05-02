@@ -1,0 +1,10 @@
+{
+  "name": "practica-ci-test01",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node tests/espar.js"
+  },
+  "devDependencies": {
+    "mocha": "^11.3.0"
+  }
+}
